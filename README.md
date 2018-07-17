@@ -1,2 +1,7 @@
-# wp-migrator
-Migrates database file from one url to another with option for prefix change
+# Migrator
+
+Allows to migrate WordPress database to new URL with option for new prefix
+
+#Usage
+
+Just fill the form.
